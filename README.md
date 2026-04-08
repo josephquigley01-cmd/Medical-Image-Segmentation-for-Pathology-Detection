@@ -30,7 +30,7 @@ The model was trained on the **CVC-ClinicDB** dataset, which consists of 612 hig
 ## 🚀 Getting Started
 **1. Clone repo:**
 ```bash
-git clone []()
+git clone [https://github.com/josephquigley01-cmd/Medical-Image-Segmentation-for-Pathology-Detection.git](https://github.com/josephquigley01-cmd/Medical-Image-Segmentation-for-Pathology-Detection.git)
 ```
 
 **2. Ensure you have Python installed, then run:**
