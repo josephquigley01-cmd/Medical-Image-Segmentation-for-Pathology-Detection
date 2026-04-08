@@ -30,6 +30,9 @@ The model was trained on the **CVC-ClinicDB** dataset, which consists of 612 hig
 ## 🚀 Getting Started
 
 ### 1. Install Dependencies
-Ensure you have Python installed, then run:
+Ensure you have Python installed and are working in the project's root directory, then run:
 ```bash
 pip install torch torchvision opencv-python matplotlib numpy scikit-learn
+python dataset.py
+python model.py
+python train.py
