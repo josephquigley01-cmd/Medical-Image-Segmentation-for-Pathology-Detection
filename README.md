@@ -28,7 +28,12 @@ The model was trained on the **CVC-ClinicDB** dataset, which consists of 612 hig
 > Bernal, J., Sánchez, F. J., Fernández-Esparrach, G., Gil, D., Rodríguez, C., & Vilariño, F. (2015). WM-DOVA maps for accurate polyp highlighting in colonoscopy: Validation vs. saliency maps from physicians. *Computerized Medical Imaging and Graphics*, 43, 99-111.
 
 ## 🚀 Getting Started
-Ensure you have Python installed, then run:
+**1. Clone repo:**
+```bash
+git clone []()
+```
+
+**2. Ensure you have Python installed, then run:**
 ```bash
 pip install -r requirements.txt
 ```
