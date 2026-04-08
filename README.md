@@ -30,7 +30,7 @@ The model was trained on the **CVC-ClinicDB** dataset, which consists of 612 hig
 ## 🚀 Getting Started
 Ensure you have Python installed, then run:
 ```bash
-pip install torch torchvision opencv-python matplotlib numpy scikit-learn
+pip install -r requirements.txt
 ```
 
 ## Execution Instructions
